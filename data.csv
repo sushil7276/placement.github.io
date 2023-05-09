@@ -1,0 +1,3 @@
+﻿student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
+"645a18d9bec251430f8642b8","Said","mit","said@gmail.com","29-sep","Not placed",34,123,34,"NA","NA","NA"
+"645a1995bec251430f8642f1","Harsh","mit","harsh@gmail.com","29-sep","Not placed",111,123,45,"2023-05-11","fb","Didn't attempt"
